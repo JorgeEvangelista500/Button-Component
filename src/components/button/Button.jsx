@@ -47,6 +47,6 @@ Button.defaultProps = {
   size: "medium",
   font: "Nunito Sans",
   fontColor: "#fffff",
-  link: true,
+  link: false,
   onClick: undefined,
 };
