@@ -5,5 +5,4 @@ In the project directory, you can run:
 
 ### `npm run storybook`
 
-Runs storybook which has the button component, that can be tested in the storybook enviroment.
-
+Runs storybook, which is an eviroment that can be used to test UI components live.
